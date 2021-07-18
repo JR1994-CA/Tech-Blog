@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/JR1994-CA/Tech-Blog/issues"
   },
-  "homepage": "https://github.com/JR1994-CA/Tech-Blog#readme",
+  "homepage": "https://github.com/JR1994-CA/Tech-Blog",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.1",
